@@ -104,6 +104,8 @@ After a one‑minute investigation involving five evidence‑based tasks, the ag
 
 ## 8. Evaluation Metrics (30‑Day Window)
 
+<img width="848" height="315" alt="image" src="https://github.com/user-attachments/assets/a1349ea0-55b3-4324-a2d1-7515cf37b311" />
+
 ### Submission Volume
 - **95** user‑reported phishing submissions triggered incidents
 
@@ -115,12 +117,19 @@ After a one‑minute investigation involving five evidence‑based tasks, the ag
 - **57 / 64** incidents were resolved by the agent  
 - These were classified as **false positives**, reducing analyst workload
 
+
+<img width="555" height="205" alt="Screenshot from 2026-01-08 13-17-33" src="https://github.com/user-attachments/assets/21bb114f-3cab-44d2-9dd3-750d18db0c7e" />
+
 ### Mean Time to Triage (MTTT)
 - Average time from submission to classification: **4 minutes 39 seconds**
+  
+<img width="603" height="472" alt="Screenshot from 2026-01-08 13-19-42" src="https://github.com/user-attachments/assets/b947fd04-7b53-415c-a77b-adfe81b27b58" />
 
 ### SCU Consumption
 - Average SCU usage per agent run: **0.09 SCUs**  
 - Indicates extremely efficient resource consumption
+  
+<img width="853" height="522" alt="image" src="https://github.com/user-attachments/assets/552a34ca-b3a1-49e1-9532-0501676a1380" />
 
 ---
 
